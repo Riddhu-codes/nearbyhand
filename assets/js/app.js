@@ -1,0 +1,1 @@
+document.querySelector('.nav-toggle')?.addEventListener('click',()=>document.querySelector('.nav-wrap nav')?.classList.toggle('open'));document.querySelectorAll('[data-submit-on-change]').forEach(el=>el.addEventListener('change',()=>el.closest('form')?.submit()));

@@ -1,0 +1,13 @@
+Tamne ek single final prompt aapta hoi chhu. Aa prompt Copilot, ChatGPT, Cursor, Claude ke koi pan coding AI ne full NearbyHand website banavta velā paste kari shako cho.
+
+Act as a professional senior full-stack web developer.
+
+Build and update the complete NearbyHand home-services booking website using the existing project if one already exists. Do not create an unnecessary replacement project and preserve existing working features and database data.
+
+Technology: PHP 8+, MySQL/MariaDB, HTML5, CSS3, JavaScript, Bootstrap, Apache/XAMPP, secure sessions, prepared statements, password hashing, CSRF protection, validation and role authorization.
+
+Build only Electrician and Plumbing. Implement the Customer, Worker and Main Admin role flows. Customers must explore services, view nearby approved workers, book services, track status, use completion OTP, pay, receive a receipt and review workers. Workers must register without mandatory Gmail, use mobile OTP/password login, manage bookings and profiles, upload work media and verify completion OTP. The Main Admin must approve workers, manage services and prices, assign bookings, monitor payments, complaints and reviews, and run reports. Keep one secure admin account only.
+
+Implement database-backed bookings, availability, location matching, notifications, OTP verification, payments, invoices, reviews, complaints, private data protection, migrations, secure uploads, responsive modern NearbyHand branding, server-side security, and complete PHP/MySQL testing. Preserve existing records and patch existing files surgically.
+
+Do not stop at static pages. Clearly document all features requiring external SMS, payment gateway or map API credentials. Provide exact XAMPP setup instructions and report files changed, migrations applied, features completed and remaining credential requirements.
